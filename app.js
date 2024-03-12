@@ -15,7 +15,7 @@ app.get('/world', (req, res) => {
 })
 
 app.get('/haha', (req, res) => {
-  res.send("haha")
+  res.send("hahas")
 })
 
 app.get('/hehe', (req, res) => {
